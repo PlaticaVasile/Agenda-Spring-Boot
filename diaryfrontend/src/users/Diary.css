@@ -1,0 +1,6 @@
+#listCSS {
+    overflow-y: auto;
+    /* Enable vertical scrollbar */
+    max-height: 100px;
+    /* Set maximum height to limit expansion */
+}
